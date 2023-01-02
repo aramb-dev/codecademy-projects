@@ -110,8 +110,9 @@ nav li:last-child {
 h1 {
   padding-top: 10.4375rem;
   padding-bottom: 1.25rem;
-  font-family: "Creepster", cursive;
+  font-family: "Open Sans";
   font-size: 8rem;
+  text-transform: uppercase;
 }
 
 #banner p {
